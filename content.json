@@ -1,20 +1,14 @@
 {
-    "heads": [
-      {
-        "url": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakM.vrm",
-        "icon": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakedM.png"
-      },
-      {
-        "url": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferF.vrm",
-        "icon": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferM.png"
-      },
-      {
-        "url": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_f1.vrm",
-        "icon": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_f1_2048.png"
-      },
-      {
-        "url": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_m2.vrm",
-        "icon": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_m2_2048.png"
-      }
-    ]
-  }
+  "vrm_urls": [
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakM.vrm",
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferF.vrm",
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_f1.vrm",
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_m2.vrm"
+  ],
+  "head_icons": [
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakedM.png",
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferM.png",
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_f1_2048.png",
+    "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_m2_2048.png"
+  ]
+}
