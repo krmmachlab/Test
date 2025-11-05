@@ -1,28 +1,25 @@
 {
 	"taggers": [
 		{
-			"name": "Cloak Boi",
-			"preview": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakedM.png",
-			"vrm": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakM.vrm",
-			"color": "#ff0000"
+			"name": "Poop Runner",
+			"preview": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fpooprunner.png",
+			"vrm": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fpooprunner.vrm",
+			"color": "#ff0000",
+			"audio": ""
 		},
 		{
-			"name": "Cloakette",
-			"preview": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakedF.png",
-			"vrm": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_CloakF.vrm",
-			"color": "#00ff00"
+			"name": "Cyber Goblin",
+			"preview": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fcybergoblin.png",
+			"vrm": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fcybergoblin.vrm",
+			"color": "#00ff00",
+			"audio": "monster"
 		},
 		{
-			"name": "Malcolm, Hitter of Balls",
-			"preview": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferM.png",
-			"vrm": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferM.vrm",
-			"color": "#0000ff"
-		},
-		{
-			"name": "Sandra, the Tartaned",
-			"preview": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferF.png",
-			"vrm": "https://vrm.nl-ams-1.linodeobjects.com/public/dcl_GolferF.vrm",
-			"color": "#ffffff"
+			"name": "Trollface",
+			"preview": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Ftrollstickman.png",
+			"vrm": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Ftrollstickman.vrm",
+			"color": "#0000ff",
+			"audio": "troll"
 		}
 	]
-}
+} 
