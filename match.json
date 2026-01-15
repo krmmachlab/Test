@@ -1,11 +1,13 @@
-{
-  "matchId": "abc123",
-  "time": {
-    "minute": 37,
-    "second": 12,
-    "addedTime": 0
-  },
-  "status": "LIVE",
-  "statusDetail": "FIRST_HALF",
-  "lastUpdated": "2026-01-15T19:42:10Z"
-}
+[
+  {
+    "matchId": "abc123",
+    "time": {
+      "minute": 37,
+      "second": 12,
+      "addedTime": 0
+    },
+    "status": "LIVE",
+    "statusDetail": "FIRST_HALF",
+    "lastUpdated": "2026-01-15T19:42:10Z"
+  }
+]
