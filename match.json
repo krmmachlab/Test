@@ -1,0 +1,25 @@
+{
+	"taggers": [
+		{
+			"name": "Poop Runner",
+			"preview": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fpooprunner.png",
+			"vrm": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fpooprunner.vrm",
+			"color": "#ff0000",
+			"audio": ""
+		},
+		{
+			"name": "Cyber Goblin",
+			"preview": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fcybergoblin.png",
+			"vrm": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Fcybergoblin.vrm",
+			"color": "#00ff00",
+			"audio": "monster-laugh"
+		},
+		{
+			"name": "Trollface",
+			"preview": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Ftrollstickman.png",
+			"vrm": "https://app-assets.nl-ams-1.linodeobjects.com/vrm_tag%2Favatars%2Ftrollstickman.vrm",
+			"color": "#0000ff",
+			"audio": "troll"
+		}
+	]
+} 
